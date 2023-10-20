@@ -27,7 +27,7 @@ Este é um projeto front-end que exibe informações sobre personagens do anime 
 
 ## Capturas de Tela
 
-
+<img src="src/imagens/Animação.gif" alt="Gif da Tela">
 
 ## Como Executar
 
